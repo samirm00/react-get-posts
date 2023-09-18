@@ -1,0 +1,23 @@
+.post {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 16px auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #2f2d2d;
+    color: #fff;
+    width: 80%;
+}
+
+.post h2 {
+    font-size: 1.5rem;
+    font-family: fantasy;
+    margin-bottom: 8px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.post p {
+    font-size: 1rem;
+    line-height: 1.4;
+}
